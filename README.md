@@ -10,11 +10,9 @@
   
 ## What i'm learning
 
-- C#
 - Java
-- Js 
+- Js
+- C
 - Python
+- C#
 
-
-## Some stats 
-[![TATHAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=tathandev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
